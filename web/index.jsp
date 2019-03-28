@@ -5,7 +5,7 @@
         ${role}<br><br>
          <a href="showLogin">Войти</a><br>
         <a id="logout" href="logout">Выйти</a><br>
-        <a href="showRegistration">Регистрация</a><br>
+        <a href="showRegistration">Зарегистрироваться</a><br>
        
         
           
