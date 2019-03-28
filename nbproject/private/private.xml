@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/User.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/properties/pagePath.properties</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/web/WEB-INF/jspf/header.jspf</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/role/RoleLogic.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/UserWords.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/Role.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/Student.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/UserRoles.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/entity/Word.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/web/showLogin.jsp</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/role/Roles.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/web/index.jsp</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/web/WEB-INF/jspf/footer.jspf</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/servlets/SessionContextServlet.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JPTVR16/WebSiteJPTVR16/src/java/utils/Encription.java</file>
+        </group>
+    </open-files>
+</project-private>
